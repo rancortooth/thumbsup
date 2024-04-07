@@ -33,8 +33,8 @@
   "dependencies": {
     "@thumbsup/theme-cards": "^1.3.0",
     "@thumbsup/theme-classic": "^1.2.0",
-    "@thumbsup/theme-flow": "^1.3.0",
     "@thumbsup/theme-mosaic": "^1.2.0",
+    "@thumbsup/theme-flow": "file:../theme-flow",
     "async": "^3.2.5",
     "better-sqlite3": "^9.1.1",
     "boxen": "^5.0.1",

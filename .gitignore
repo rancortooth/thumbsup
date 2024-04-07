@@ -7,3 +7,4 @@ test-snapshot/output-expected/metadata.json
 .DS_Store
 thumbsup.db
 tmp*
+.vscode/
